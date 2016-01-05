@@ -2,7 +2,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
   home:
     slogan: "玩遊戲學程式"
     no_ie: "抱歉！Internet Explorer 8 等舊的瀏覽器打不開此網站" # Warning that only shows up in IE8 and older
-    no_mobile: "CodeCombat不是針對手機設備設計的，所以可能會出問題！" # Warning that shows up on mobile devices
+    no_mobile: "CodeCombat不是針對行動裝置設計的，所以可能會出問題！" # Warning that shows up on mobile devices
     play: "開始遊戲" # The big play button that opens up the campaign view.
 #    play_campaign_version: "Play Campaign Version" # Shows up under big play button if you only play /courses
     old_browser: "嗯... 您的瀏覽器太老了跑不動CodeCombat，抱歉！" # Warning that shows up on really old Firefox/Chrome/Safari
@@ -71,13 +71,13 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     poll: "投票" # Tooltip on poll button from /play
     next: "下一步" # Go from choose hero to choose inventory before playing a level
     change_hero: "更換英雄" # Go back from choose inventory to choose hero
-    buy_gems: "購買鑽石"
+    buy_gems: "購買寶石"
     subscription_required: "需要訂購"
     anonymous: "匿名玩家"
     level_difficulty: "難度"
 #    play_classroom_version: "Play Classroom Version" # Choose a level in campaign version that you also can play in one of your courses
     campaign_beginner: "新手指南"
-    awaiting_levels_adventurer_prefix: "我們每周將釋出新的關卡。" # {change}
+    awaiting_levels_adventurer_prefix: "我們每週將釋出新的關卡。" # {change}
     awaiting_levels_adventurer: "註冊成為冒險家"
     awaiting_levels_adventurer_suffix: "成為第一個挑戰新關卡的冒險家吧!"
     adjust_volume: "調整音量"
@@ -213,8 +213,8 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     hours: "小時"
     day: "日"
     days: "日"
-    week: "周"
-    weeks: "周"
+    week: "週"
+    weeks: "週"
     month: "個月"
     months: "個月"
     year: "年"
@@ -262,7 +262,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     victory_experience_gained: "取得經驗值"
     victory_gems_gained: "取得寶石"
     victory_new_item: "新的物品"
-    victory_viking_code_school: "太厲害了, 您剛完成了非常困難的關卡! 如果您想成為一個軟體開發人員，您就應該去試一下Viking Code School。在這裡您可以把您的知識增長到另一個台階。只需要14個星期您就能成為一個專業的網頁開發人員。"
+    victory_viking_code_school: "太厲害了, 您剛完成了非常困難的關卡! 如果您想成為一個軟件開發人員，您就應該去試一下Viking Code School。在這裡您可以把您的知識增長到另一個台階。只需要14個星期您就能成為一個專業的網頁開發人員。"
     victory_become_a_viking: "成為一個維京人。"
     guide_title: "指南"
     tome_cast_button_run: "運作"
@@ -312,14 +312,14 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     tip_great_responsibility: "隨著擁有強大的編程技巧，除錯的責任將越大."
     tip_munchkin: "如果您不吃掉您的蔬菜，那小矮人將在您沈睡時找到您."
     tip_binary: "只有2種人在這世上: 那些懂2進位的，和哪些不懂得."
-    tip_commitment_yoda: "一個程序員必須擁有強烈的責任感和一顆認真的心. ~ Yoda《星球大戰》"
+    tip_commitment_yoda: "一個程式員必須擁有強烈的責任感和一顆認真的心. ~ Yoda《星球大戰》"
     tip_no_try: "做，或者不做。這邊不存在嘗試的選項. - Yoda《星球大戰》"
     tip_patience: "年輕的學徒，您必須擁有耐心. - Yoda《星球大戰》"
     tip_documented_bug: "一個寫在文件裡的錯誤不是錯誤;它是功能."
     tip_impossible: "事情總是看起來不可能直到它成真那刻. - Nelson Mandela"
     tip_talk_is_cheap: "多說無益，放「碼」過來. - Linus Torvalds"
     tip_first_language: "您經歷的第一門程式語言是最慘痛的事情. - Alan Kay"
-    tip_hardware_problem: "Q: 換一顆燈泡需要多少位程序員?  A: 一位也不用，它是個硬體問題。"
+    tip_hardware_problem: "Q: 換一顆燈泡需要多少位程式員?  A: 一位也不用，它是個硬體問題。"
     tip_hofstadters_law: "Hofstadter 定律: 完成一件複雜的事花費的時間總是超乎預期, 甚至您早已知道這個現象( Hofstadter 定律)。"
     tip_premature_optimization: "過早的優化是萬惡之源。 - Donald Knuth"
     tip_brute_force: "當您游移不定時, 就是用暴力解。 - Ken Thompson"
@@ -336,7 +336,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     tip_move_forward: "不論做什麼, 保持前進. - Martin Luther King Jr."
     tip_google: "擁有一個您不能解決的問題? Google它!"
     tip_adding_evil: "增加一個邪惡掐揑。"
-    tip_hate_computers: "關於自我覺得恨透電腦的那群人. 其實他們真正應該恨的事情是糟糕的程序員。 - Larry Niven"
+    tip_hate_computers: "關於自我覺得恨透電腦的那群人. 其實他們真正應該恨的事情是糟糕的程式員。 - Larry Niven"
     tip_open_source_contribute: "您可以幫助「CodeCombat」提高！"
     tip_recurse: "迭代者人也，遞歸者神也 - L. Peter Deutsch"
     tip_free_your_mind: "放下一切私心雜念，丟棄害怕、疑問和拒信，解放您的思維。 - 莫菲斯《駭客任務》"
@@ -366,7 +366,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     scores: "分數"
     top_players: "頂級玩家由"
     day: "今天"
-    week: "這周"
+    week: "這週"
     all: "長期以來"
     time: "時間"
     damage_taken: "遭受的攻擊"
@@ -714,10 +714,10 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     main_title: "CodeCombat社群"
     introduction: "查看您可能可以參與的項目以及選擇最吸引您的項目. 我們期待與您一起工作!"
     level_editor_prefix: "使用CodeCombat"
-    level_editor_suffix: "來創造和編輯關卡。 許多人已經創造關卡用在課堂或黑客松，或者給予朋友或兄弟姐妹。如果您覺得創建一個全新的關卡非常困難，您可以先從現成的開始做起!"
+    level_editor_suffix: "來創造和編輯關卡。 許多人已經創造關卡用在課堂或黑客松，或者給予朋友或兄弟姊妹。如果您覺得創建一個全新的關卡非常困難，您可以先從現成的開始做起!"
     thang_editor_prefix: "我們稱呼遊戲中的單位叫'thangs'。 使用"
     thang_editor_suffix: "來修改CodeCombat的原材料。 讓遊戲中的東西可以扔砲彈，修改遊戲動畫的方向，調整單位的生命值，或者上傳自製的素材。"
-    article_editor_prefix: "在我們的文件中有看到錯誤嗎？ 想要自己設計指令嗎？ 查看我們的"
+    article_editor_prefix: "看到有錯誤在我們的文件中嗎？ 想要自己設計指令嗎？ 查看我們的"
     article_editor_suffix: "以及幫助CodeCombat玩家獲得更多知識在遊戲中。"
     find_us: "通過這些網站連繫我們"
     social_github: "在GitHub上查看我們的代碼"
@@ -1023,7 +1023,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     artisan_summary: "建造遊戲關卡並且分享給您的朋友們。 成為工匠來幫助其他人學習編程。"
     adventurer_title: "冒險家"
     adventurer_title_description: "(Level Playtester)"
-    adventurer_summary: "提前一周免費取得我們新的關卡(甚至是訂閱的內容)並且提前在釋出前幫助我們找出錯誤。"
+    adventurer_summary: "提前一週免費取得我們新的關卡(甚至是訂閱的內容)並且提前在釋出前幫助我們找出錯誤。"
     scribe_title: "文書"
     scribe_title_description: "(Article Editor)"
     scribe_summary: "好的程式需要好的文件。 來自全世界數百萬的玩家一起編寫, 編輯和提升文件的可讀性。"
@@ -1134,7 +1134,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     intro_blurb: "CodeCombat 是 100% 開源! 上百位專注的玩家已經幫助我們建造到今天的程度. 加入我們並完成下一章 CodeCombat 的冒險給全世界參與!"
     alert_account_message_intro: "您好!"
     alert_account_message: "為了訂閱課程信件, 您將必須先登入."
-    archmage_introduction: "在建造遊戲中，其中一個最美好的事情是需要整合許多不同東西：圖像、 聲音、及時網路和社群網路。以及許多不同層面的編程，從底層數據庫管理，到用戶界面的設計和實現。 這裡有許多事情需要完成, 如果您是個有經驗的程序員並且熱衷于深入處理 CodeCombat 的本質，那麼這職業就是為您打造的。 我們將很高興擁有您的幫助來打造有史以來最優質的編程遊戲。"
+    archmage_introduction: "在建造遊戲中，其中一個最美好的事情是需要整合許多不同東西：圖像、 聲音、及時網路和社群網路。以及許多不同層面的編程，從底層數據庫管理，到用戶界面的設計和實現。 這裡有許多事情需要完成, 如果您是個有經驗的程式員並且熱衷于深入處理 CodeCombat 的本質，那麼這職業就是為您打造的。 我們將很高興擁有您的幫助來打造有史以來最優質的編程遊戲。"
     class_attributes: "職業說明"
     archmage_attribute_1_pref: "熟悉于"
     archmage_attribute_1_suf: ", 或者渴望去學習。 我們大部份的程式以這個語言寫成。 如果您是個 Ruby 或 Python 的粉絲， 您將感覺到歸屬感。 它是個JavaScript， 但是擁有更佳的文法。"
@@ -1183,7 +1183,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     diplomat_github_url: " GitHub "
     diplomat_join_suf_github: "找到您的語言文件 (繁體中文的是: codecombat/app/locale/zh-HANT.coffee), 在線編輯它, 並且上傳一個 pull 請求。 另外， 勾選底下的條件來借由郵件獲得及時的國際化開發!"
     diplomat_subscribe_desc: "取得國際化開發和待翻譯關卡的郵件。"
-    ambassador_introduction: "這是個我們正在建立的社群， 您將是我們與世界的連接點。 我們在論壇， 郵件， 社群網路上和許多人交談並且幫助彼此熟悉遊戲以及互相學習。 如果您想要幫助其它人參與並且從中獲得許多樂趣， 以及樂於感受CodeCombat的脈搏和我們將前往的地方， 那麼這職業也許適合您。"
+    ambassador_introduction: "這是個我們正在建立的社群， 您將是我們與世界的連接點。 我們在論壇， 郵件， 社群網路上和許多人交談並且幫助彼此熟悉遊戲以及互相學習。 如果您想要幫助其他人參與並且從中獲得許多樂趣， 以及樂於感受CodeCombat的脈搏和我們將前往的地方， 那麼這職業也許適合您。"
     ambassador_attribute_1: "溝通技巧。 可以找到玩家正面臨的問題並且幫助他們解決。 另外， 保持與我們聯繫玩家們討論的， 喜愛的， 厭惡的以及想要的!"
     ambassador_join_desc: "告訴我們更多關於您的資訊， 您已完成的事情和您喜歡做的事情。 我們將從這些地方開始!"
     ambassador_join_note_strong: "注意"
