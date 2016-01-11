@@ -311,7 +311,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     tip_harry: "巫師，"
     tip_great_responsibility: "隨著擁有強大的編程技巧，除錯的責任將越大。"
     tip_munchkin: "如果您不吃掉您的蔬菜，那小矮人將在您沉睡時找到您。"
-    tip_binary: "只有2種人在這世上：那些懂2進位的，和哪些不懂得。"
+    tip_binary: "只有2種人在這世上：那些懂2進位的，和那些不懂得。"
     tip_commitment_yoda: "一個程式員必須擁有強烈的責任感和一顆認真的心。 ~ Yoda《星際大戰》"
     tip_no_try: "做，或者不做。這邊不存在嘗試的選項。 - Yoda《星際大戰》"
     tip_patience: "年輕的學徒，您必須擁有耐心。 - Yoda《星際大戰》"
